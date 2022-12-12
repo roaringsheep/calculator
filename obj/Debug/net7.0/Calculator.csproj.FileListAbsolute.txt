@@ -1,0 +1,15 @@
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/roaringsheep/Code/Calculator/bin/Debug/net7.0/Calculator
+/home/roaringsheep/Code/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/roaringsheep/Code/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/roaringsheep/Code/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/roaringsheep/Code/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/roaringsheep/Code/Calculator/obj/Debug/net7.0/ref/Calculator.dll
