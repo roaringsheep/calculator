@@ -1,0 +1,5 @@
+C:\Users\MinseonSong\dev\calculator\publish\Calculator.exe
+C:\Users\MinseonSong\dev\calculator\publish\Calculator.dll
+C:\Users\MinseonSong\dev\calculator\publish\Calculator.deps.json
+C:\Users\MinseonSong\dev\calculator\publish\Calculator.runtimeconfig.json
+C:\Users\MinseonSong\dev\calculator\publish\Calculator.pdb

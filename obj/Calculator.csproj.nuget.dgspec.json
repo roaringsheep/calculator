@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/roaringsheep/Code/Calculator/Calculator.csproj": {}
+    "C:\\Users\\MinseonSong\\dev\\calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "/home/roaringsheep/Code/Calculator/Calculator.csproj": {
+    "C:\\Users\\MinseonSong\\dev\\calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roaringsheep/Code/Calculator/Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\MinseonSong\\dev\\calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/home/roaringsheep/Code/Calculator/Calculator.csproj",
-        "packagesPath": "/home/roaringsheep/.nuget/packages/",
-        "outputPath": "/home/roaringsheep/Code/Calculator/obj/",
+        "projectPath": "C:\\Users\\MinseonSong\\dev\\calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\MinseonSong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MinseonSong\\dev\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/roaringsheep/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\MinseonSong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
